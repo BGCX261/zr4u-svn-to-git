@@ -1,0 +1,47 @@
+form { margin:0; }
+img { vertical-align:middle; border:0;}
+label { display:block; }
+input.text { margin-bottom:12px; padding: .4em; }
+h1 { font-size: 1.2em; margin: .6em 0;}
+a.ui-button{ padding:.5em;}
+
+/* --multipage setup start -- */
+ul.multipage{
+    list-style:none;
+}
+ul.multipage li{
+    line-height:24px;
+    display:inline;
+    color:#0291d9;
+    margin:0 3px;
+}
+
+ul.multipage li span{
+    border:1px #1B9EDD solid;
+    font-size:11px;
+    font-weight:bold;
+    color:#FFF;
+    text-decoration:none;
+    text-align:center;
+    padding:2px 3px;
+    background:#0291d9;
+}
+
+ul.multipage li a{
+    font-size:11px;
+    color:#0291d9;
+    padding:2px 3px;
+    border:1px #8BD1EE solid;
+    text-align:center;
+    text-decoration:none;
+    background:#fff;
+}
+
+ul.multipage li a:hover{
+    background:#0291d9;
+    color:#fff;
+    padding:2px 3px;
+    border:1px #0291d9 solid;
+    font-weight:bold;
+}
+/* --multipage setup end -- */
